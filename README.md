@@ -1,2 +1,2 @@
 # Modelado_Diagram
- Desarrollo y diseño de Softwaew
+ Desarrollo y diseño de Software
